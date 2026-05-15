@@ -193,7 +193,10 @@ export default function App() {
           <span className="text-blue-400 cursor-default">Chuyển đổi</span>
           <span className="hover:text-white cursor-pointer transition-colors">Lịch sử</span>
           <span className="hover:text-white cursor-pointer transition-colors">Hướng dẫn</span>
-          <div className="w-8 h-8 rounded-full bg-slate-700 border border-white/20"></div>
+          <img
+            src="https://nd-site.github.io/assets/images/logo.png"
+            alt="Logo"
+            className="w-8 h-8 rounded-full border border-white/20"/>
         </div>
       </nav>
 
