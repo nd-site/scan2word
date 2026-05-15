@@ -1,0 +1,6 @@
+{
+  "name": "Scan2Word",
+  "description": "Convert images of formatted text into perfectly formatted Word documents using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
